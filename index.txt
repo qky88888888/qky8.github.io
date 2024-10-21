@@ -4,7 +4,7 @@ Ethan Ward - Web Developer from New York
 
 #---------- HEADER ----------#
 
-Ethan Ward
+KAIYI QI Ward
 
 aria-label = Toggle Menu
 
